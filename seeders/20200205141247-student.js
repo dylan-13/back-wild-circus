@@ -43,7 +43,7 @@ module.exports = {
         id: 5,
         firstName: "Stevie",
         lastName: "Cutman",
-        show: "A simple thought can cause it to twerk, never say twerk in front of her\n",
+        show: "A simple thought can cause it to dance, never say dance in front of her",
         linkedIn: "https://www.linkedin.com/in/steviecutman/",
         createdAt: new Date(),
         updatedAt: new Date()
